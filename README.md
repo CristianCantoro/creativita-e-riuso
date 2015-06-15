@@ -10,6 +10,13 @@ The slides are on SlideShare:
 ["Creatività e riuso: le opportunità della rete nel rispetto del copyright"](http://www.slideshare.net/CristianCantoro/le-opportunit-della-rete-nel-rispetto-del-copyright).
 
 This presentation uses the amazing [jekyll-revealjs](https://github.com/dploeger/jekyll-revealjs).
+jekyll-revealjs is released under the MIT license, see
+[MIT_LICENSE](https://github.com/CristianCantoro/creativita-e-riuso/blob/master/MIT_LICENSE)
+for details.
+
+This presentation is released under a CC-BY-SA 4.0 license, see the
+[credits](https://github.com/CristianCantoro/creativita-e-riuso/blob/master/_posts/1-1-1-99-credits.md)
+for further info on the files.
 
 ## Italian
 Una presentazione ispirata alla TED talk di Lawrence Lessig: 
@@ -23,3 +30,10 @@ Potete trovare le slide anche su SlideShare:
 ["Creatività e riuso: le opportunità della rete nel rispetto del copyright"](http://www.slideshare.net/CristianCantoro/le-opportunit-della-rete-nel-rispetto-del-copyright).
 
 La presentazione è creata con [jekyll-revealjs](https://github.com/dploeger/jekyll-revealjs).
+jekyll-revealjs è rilasciato con una licenza MIT, vedete il file
+[MIT_LICENSE](https://github.com/CristianCantoro/creativita-e-riuso/blob/master/MIT_LICENSE)
+per ulteriori informazioni.
+
+La presentazione è rilasciata con licenza CC-BY-SA 4.0, guardate i
+[credits](https://github.com/CristianCantoro/creativita-e-riuso/blob/master/_posts/1-1-1-99-credits.md)
+per informazioni riguardanti i singoli file.
