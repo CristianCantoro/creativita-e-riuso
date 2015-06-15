@@ -1,4 +1,4 @@
-# Creativite-riuso
+# Creatività e riuso: le opportunità della rete nel rispetto del copyright
 
 ## English
 
